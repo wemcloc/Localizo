@@ -1,0 +1,14 @@
+#texto {
+    font-family: "arial";
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#map {
+    align-items: center;
+    width: 90%;
+    height: 80%;
+    position: absolute;
+    margin-top: 20px;
+}
